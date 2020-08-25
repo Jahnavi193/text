@@ -1,0 +1,3 @@
+In version control systems,a repository is a data structure that stores metadata for a set of files or directory structure.
+Some of the metadata that a repository contains includes,among other things.A historica record of changes in the repository.
+A set of commit obects.
